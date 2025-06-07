@@ -1,0 +1,1 @@
+# Qt5.12.1kaiyuanbanWindowsx86anzhuangbao
